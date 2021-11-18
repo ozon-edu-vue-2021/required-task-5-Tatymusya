@@ -197,7 +197,6 @@ export default {
     width: 100%;
     height: 32px;
     padding: 0 12px;
-    margin-right: 32px;
     border: none;
     background: none;
 }
